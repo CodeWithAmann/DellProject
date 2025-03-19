@@ -6,6 +6,7 @@ Aman singh
 
 Hello 
 
+<<<<<<< Updated upstream
 
 $ git stash
 Saved working directory and index state WIP on main: 71876c9 branch change by me
@@ -15,3 +16,11 @@ $ git status
 On branch main
 
 
+=======
+get 
+put 
+post
+set
+issue
+create
+>>>>>>> Stashed changes
